@@ -22,6 +22,6 @@ This challenge is a LOT easier than it might seem at first. Don't focus too much
 Best of luck!
 */
 
-function greaterThanLessThan (a,b,c) {
-//write your code here! 
+const greaterThanLessThan = (a,b,c) => {
+  return a<b<c;
 }
